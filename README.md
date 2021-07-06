@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/SRI-VISHVA/SRI-VISHVA/main/SRI VISHVA'S.png "Header")](https://srivishvae.wordpress.com/)
+[![Header](https://raw.githubusercontent.com/SRI-VISHVA/SRI-VISHVA/blob/main/SRI%20VISHVA'S.png "Header")](https://srivishvae.wordpress.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
