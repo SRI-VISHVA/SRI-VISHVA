@@ -41,9 +41,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/SRI-VISHVA/HealthX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SRI-VISHVA&repo=HealthX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SRI-VISHVA/HealthX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SRI-VISHVA&repo=HealthX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <!--<a href="https://github.com/SRI-VISHVA/ISAA_MY_PHISHER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SRI-VISHVA&repo=ISAA_MY_PHISHER&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>-->
